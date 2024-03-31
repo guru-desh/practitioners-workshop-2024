@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "wiki"
+version = "0.1.0"
+description = ""
+authors = ["Gururaj Deshpande <66385690+guru-desh@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mkdocs = "^1.5.3"
+mkdocs-material = { extras = ["imaging"], version = "^9.5.14" }
+
+
+[tool.poetry.group.dev.dependencies]
+poethepoet = "^0.25.0"
+
+[tool.poe.tasks]
+serve = "mkdocs serve"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
