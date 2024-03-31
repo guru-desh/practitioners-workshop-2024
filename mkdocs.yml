@@ -1,6 +1,10 @@
 site_name: Practitioners' Workshop 2024
+site_url: https://guru-desh.github.io/practitioners-workshop-2024/
 site_description: The website for the L@S Practitioners' Workshop 2024
 theme:
+  font:
+    text: Roboto
+    code: Roboto Mono
   name: material
   features:
     - navigation.tabs
