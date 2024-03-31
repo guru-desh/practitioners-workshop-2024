@@ -31,8 +31,9 @@ theme:
       primary: blue
       accent: lime
 
-plugins:
-  - social
+# TODO: Fix but CI is failing
+# plugins:
+#   - social
 
 markdown_extensions:
   - pymdownx.highlight:
