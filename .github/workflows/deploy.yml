@@ -14,10 +14,11 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+      - name: Install poetry
+        run: pipx install poetry
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
           cache: "poetry"
-      - run: pip install poetry
       - run: poetry install
       - run: poetry run mkdocs gh-deploy --force
