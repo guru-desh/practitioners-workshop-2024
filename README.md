@@ -1,7 +1,4 @@
-# L@S Practitioners' Workshop
-
-Welcome to the L@S Practitioners' Workshop GitHub Repo. This repository holds the source code to build the website used to distribute information about this workshop.
-We use [MkDocs](https://www.mkdocs.org/) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) to build this webpage. We also use [poetry](https://python-poetry.org/) for dependency management.
+# Georgia Tech Head TA Summit 2024
 
 ## Getting Started
 
