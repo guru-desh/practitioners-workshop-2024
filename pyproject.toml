@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "practitioners-workshop"
+name = "wiki"
 version = "0.1.0"
 description = ""
 authors = ["Gururaj Deshpande <gdeshpande9@gatech.edu>"]
