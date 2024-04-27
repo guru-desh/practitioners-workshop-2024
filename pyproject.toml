@@ -9,7 +9,8 @@ readme = "README.md"
 python = "^3.10"
 mkdocs = "^1.5.3"
 mkdocs-material = { extras = ["imaging"], version = "^9.5.16" }
-
+mkdocs-resize-images = "^1.0.1"
+mkdocs-awesome-pages-plugin = "^2.9.2"
 
 [tool.poetry.group.dev.dependencies]
 poethepoet = "^0.25.0"

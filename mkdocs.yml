@@ -33,6 +33,14 @@ theme:
 
 plugins:
   - social
+  - search
+  - awesome-pages
+  - resize-images:
+      source-dir: assets-large
+      target-dir: assets
+      enable_cache: True
+      size: [500, 500]
+      extensions: [".jpg", ".jpeg", ".png", ".gif", ".svg"]
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -47,3 +55,4 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html

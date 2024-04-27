@@ -3,6 +3,8 @@
 
 ### MkDocs ###
 .cache
+.resize-hash
+assets-large
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
