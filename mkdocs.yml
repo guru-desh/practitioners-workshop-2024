@@ -42,6 +42,10 @@ plugins:
       size: [500, 500]
       extensions: [".jpg", ".jpeg", ".png", ".gif", ".svg"]
 
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/zA8JscjuMg
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
