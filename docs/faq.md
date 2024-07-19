@@ -23,3 +23,7 @@ We have a discord channel where you can meet with other participants. Please joi
 ## What should we do before the workshop?
 
 We plan to discuss a variety of topics during the workshop, and we would appreciate if you could fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScs3blpokV1cIVRnzLCPSGBgvuhmM8JrkbwKY_SIQkRKQKb_g/viewform) to contribute on what topics should be discussed.
+
+## Can we join online?
+
+You can join online using [this Zoom link](https://gatech.zoom.us/j/98702029173?pwd=ObaTf8Aq4Qtea0LAFk53SYp7UazcbL.1).

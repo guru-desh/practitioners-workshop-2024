@@ -20,6 +20,8 @@ This workshop is a part of [L@S 2024](https://learningatscale.hosting.acm.org/la
 
 **This workshop will be held on July 20th from 1:00 PM - 5:00 PM.** The workshop will be held in the Global Learning Center 334.
 
+**We also have an online option for those that cannot join us in person**. Use [this Zoom link](https://gatech.zoom.us/j/98702029173?pwd=ObaTf8Aq4Qtea0LAFk53SYp7UazcbL.1) to join online!
+
 ### Tentative Schedule
 
 | Time              | Activity                                 |
