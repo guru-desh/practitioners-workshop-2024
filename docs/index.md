@@ -10,6 +10,10 @@ Hiring additional teaching staff can help alleviate some of the burden, but it i
 
 ## Logistics
 
+### Before the workshop
+
+We plan to discuss a variety of topics during the workshop, and we would appreciate if you could fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScs3blpokV1cIVRnzLCPSGBgvuhmM8JrkbwKY_SIQkRKQKb_g/viewform) to contribute on what topics should be discussed.
+
 ### Location and Time
 
 This workshop is a part of [L@S 2024](https://learningatscale.hosting.acm.org/las2024/), which is at Georgia Tech on July 18th - 20th.

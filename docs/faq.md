@@ -18,4 +18,8 @@ Please email the organizers [Chris Cui, Gururaj Deshpande, and Celeste Mason](ma
 
 ## How do I get in touch with other participants?
 
-We have a discord channel where you can meet with other participants. Please join us at [this link](https://discord.gg/zA8JscjuMg). We will also be creating a mailing list of participants.
+We have a discord channel where you can meet with other participants. Please join us on Discord at [this link](https://discord.gg/zA8JscjuMg). We will also be creating a mailing list of participants.
+
+## What should we do before the workshop?
+
+We plan to discuss a variety of topics during the workshop, and we would appreciate if you could fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLScs3blpokV1cIVRnzLCPSGBgvuhmM8JrkbwKY_SIQkRKQKb_g/viewform) to contribute on what topics should be discussed.
