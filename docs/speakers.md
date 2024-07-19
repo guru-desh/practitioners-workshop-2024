@@ -1,19 +1,10 @@
 # Invited Speakers
 
-![Chris Cui](assets/chris_cui.png){ loading=lazy , width="200", align="left" }
+![Chris Cui](assets/pedro.png){ loading=lazy , width="200", align="left" }
 
-## Pedro
+## [Pedro Guillermo Feijóo-García, Ph.D.](https://www.pfeijoo.com/)
 
-* **Afflilation:** Georgia Institute of Technology
-* **Research Interests:** Active Learning, Student Mental Health
+* **Afflilation:** Georgia Institute of Technology - School of Computing Instruction
+* **Research Interests:** Human-Centered AI, Computer Science Education
 <br><br>
-Pedro is a lecturer at Georgia Tech teaching large software engineering classes in the CS program. He is interested in the intersection of software engineering and education, and has been working on tools to help students learn how to write better code as well as focusing on how to incorporate active learning as the enrollment numbers in his classes have grown. His research interests center on active learning as well as how to train TAs to be viligant for student mental health issues as enrollment numbers grow. He has been a faculty in University of Florida before joining Georgia Tech.
-
-![Chris Cui](assets/chris_cui.png){ loading=lazy , width="200", align="left" }
-
-## Pedro
-
-* **Afflilation:** Georgia Institute of Technology
-* **Research Interests:** Active Learning, Student Mental Health
-<br><br>
-Pedro is a lecturer at Georgia Tech teaching large software engineering classes in the CS program. He is interested in the intersection of software engineering and education, and has been working on tools to help students learn how to write better code as well as focusing on how to incorporate active learning as the enrollment numbers in his classes have grown. His research interests center on active learning as well as how to train TAs to be viligant for student mental health issues as enrollment numbers grow. He has been a faculty in University of Florida before joining Georgia Tech.
+Dr. Feijóo-García is a Lecturer at the School of Computing Instruction (SCI) of the College of Computing at the Georgia Institute of Technology. He teaches courses related to software engineering and does research on computer science education (CS Ed) and Human-Centered AI. Prior to joining SCI, he was an instructor on record at the Department of Computer & Information Science & Engineering (CISE) at the University of Florida for graduate and undergraduate courses on human-centered computing and software development, and a Core-Faculty Assistant Professor at Universidad El Bosque, Colombia, for undergraduate courses in software engineering and development. He earned his Ph.D. in Human-Centered Computing at the University of Florida. Dr. Feijóo-García is a Colombian and a Fulbright alumnus. Dr. Feijóo-García has worked on research focused on evaluating users' perceptions and interactions with virtual humans (i.e., embodied conversational agents) designed for mental health support in college scenarios. He has also worked on computer science education (CS Ed) research, designing and evaluating interactive interfaces to promote programming learning. His research interests concern human-centered and social computing.
