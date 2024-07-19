@@ -18,7 +18,7 @@ We plan to discuss a variety of topics during the workshop, and we would appreci
 
 This workshop is a part of [L@S 2024](https://learningatscale.hosting.acm.org/las2024/), which is at Georgia Tech on July 18th - 20th.
 
-**This workshop will be held on July 20th from 1:00 PM - 5:00 PM.** The workshop will be held in the Global Learning Center.
+**This workshop will be held on July 20th from 1:00 PM - 5:00 PM.** The workshop will be held in the Global Learning Center 334.
 
 ### Tentative Schedule
 
