@@ -2,7 +2,7 @@
 
 ![Chris Cui](assets/chris_cui.png){ loading=lazy , width="100", align=left}
 
-## Christopher Cui
+## [Christopher Cui](https://www.linkedin.com/in/christopher-cui/)
 
 * **Afflilation:** Georgia Institute of Technology
 * Incoming PhD student at UCSD: Interested in NLP, RL and Education. Former Head TA of CS6601 and CS3600 (Artificial Intelligence) at Georgia Tech.
