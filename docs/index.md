@@ -24,18 +24,18 @@ This workshop is a part of [L@S 2024](https://learningatscale.hosting.acm.org/la
 
 ### Tentative Schedule
 
-| Time              | Activity                                 |
-| ----------------- | ---------------------------------------- |
-| 1:00 PM - 1:30 PM | Introductions                            |
-| 1:30 PM - 1:45 PM | Invited Speaker                          |
-| 1:45 PM - 2:00 PM | Workshop Plan Overview and Introductions |
-| 2:00 PM - 2:30 PM | Topic #1 Overview & Discussion           |
-| 2:30 PM - 3:00 PM | Topic #2 Overview & Discussion           |
-| 3:00 PM - 3:30 PM | Coffee Break                             |
-| 3:30 PM - 4:00 PM | Topic #3 Overview & Discussion           |
-| 4:00 PM - 4:30 PM | Topic #4 Overview & Discussion           |
-| 4:30 PM - 5:00 PM | Closing Remarks                          |
-| 5:00 PM           | End                                      |
+| Time              | Activity                       |
+| ----------------- | ------------------------------ |
+| 1:00 PM - 1:30 PM | Introductions                  |
+| 1:30 PM - 1:50 PM | Invited Speaker                |
+| 1:50 PM - 2:00 PM | Workshop Plan Overview         |
+| 2:00 PM - 2:45 PM | Topic #1 Overview & Discussion |
+| 2:45 PM - 3:00 PM | Break                          |
+| 3:00 PM - 3:45 PM | Topic #2 Overview & Discussion |
+| 3:45 PM - 4:00 PM | Break                          |
+| 4:00 PM - 4:45 PM | Topic #3 Overview & Discussion |
+| 4:45 PM - 5:00 PM | Closing Remarks                |
+| 5:00 PM           | End                            |
 
 ## Join Our Discord Channel!
 
