@@ -26,15 +26,15 @@ This workshop is a part of [L@S 2024](https://learningatscale.hosting.acm.org/la
 
 | Time              | Activity                       |
 | ----------------- | ------------------------------ |
-| 1:00 PM - 1:30 PM | Introductions                  |
-| 1:30 PM - 1:50 PM | Invited Speaker                |
-| 1:50 PM - 2:00 PM | Workshop Plan Overview         |
-| 2:00 PM - 2:45 PM | Topic #1 Overview & Discussion |
-| 2:45 PM - 3:00 PM | Break                          |
-| 3:00 PM - 3:45 PM | Topic #2 Overview & Discussion |
-| 3:45 PM - 4:00 PM | Break                          |
-| 4:00 PM - 4:45 PM | Topic #3 Overview & Discussion |
-| 4:45 PM - 5:00 PM | Closing Remarks                |
+| 1:30 PM - 1:50 PM | Introductions                  |
+| 1:50 PM - 2:10 PM | Invited Speaker                |
+| 2:10 PM - 2:20 PM | Workshop Plan Overview         |
+| 2:20 PM - 3:00 PM | Topic #1 Overview & Discussion |
+| 3:00 PM - 3:15 PM | Break                          |
+| 3:15 PM - 3:55 PM | Topic #2 Overview & Discussion |
+| 3:55 PM - 4:10 PM | Break                          |
+| 4:10 PM - 4:50 PM | Topic #3 Overview & Discussion |
+| 4:50 PM - 5:00 PM | Closing Remarks                |
 | 5:00 PM           | End                            |
 
 ## Join Our Discord Channel!
